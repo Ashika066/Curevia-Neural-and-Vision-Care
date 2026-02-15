@@ -1,0 +1,5 @@
+data/brain_tumor
+data/eye_disease
+*.h5
+*.keras
+utils/__pycache__
